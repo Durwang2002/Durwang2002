@@ -129,7 +129,7 @@ Unsupervised ML model segmenting customers by age, income, and spending score. P
 ## 🎓 Education
 
 **Bachelor of Technology — Computer Science & Engineering**
-G.H. Raisoni University, Amravati, Maharashtra · *Graduating Jun 2026*
+G.H. Raisoni University, Amravati, Maharashtra · *Graduated-Jun 2026*
 
 ---
 
