@@ -5,12 +5,11 @@
   <a href="mailto:durwangdeotale34@gmail.com">📧 durwangdeotale34@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/durwang-deotale">🔗 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/Durwang2002">💻 GitHub</a> &nbsp;|&nbsp;
-   <a href="https://github.com/Durwang2002/Durwang2002/blob/main/LinkedIn.jpg?raw=true">Image</a> &nbsp;|&nbsp;
   📍 Nagpur, Maharashtra, India
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20RLS%20%7C%20Gateways-1D9E75?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://github.com/Durwang2002/Durwang2002/blob/main/LinkedIn.jpg?raw=true" />
   <img src="https://img.shields.io/badge/SQL-Advanced-185FA5?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Pandas%20%7C%20Scikit--learn%20%7C%20TensorFlow-534AB7?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Full--time-1D9E75?style=flat-square" />
