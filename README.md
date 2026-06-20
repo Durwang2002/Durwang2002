@@ -5,7 +5,7 @@
   <a href="mailto:durwangdeotale34@gmail.com">📧 durwangdeotale34@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/durwang-deotale">🔗 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/Durwang2002">💻 GitHub</a> &nbsp;|&nbsp;
-   <a href="">Image</a> &nbsp;|&nbsp;
+   <a href="https://github.com/Durwang2002/Durwang2002/blob/main/LinkedIn.jpg?raw=true">Image</a> &nbsp;|&nbsp;
   📍 Nagpur, Maharashtra, India
 </p>
 
