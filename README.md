@@ -1,76 +1,125 @@
-<h1 align="center">Durwang Deotale</h1>
-<h3 align="center">Data Analyst · Power BI · SQL · Python · Machine Learning</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:durwangdeotale34@gmail.com">📧 durwangdeotale34@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/durwang-deotale">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Durwang2002">💻 GitHub</a> &nbsp;|&nbsp;
-  📍 Nagpur, Maharashtra, India
+# 👋 Hello, I'm Durwang Deotale
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Enthusiast;Python+Data+Analyst;Turning+Data+Into+Business+Insights" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎯 Passionate Data Analyst and Computer Science Engineer with practical experience in Business Intelligence, Data Visualization, and transforming raw data into meaningful insights.
+
+📊 Specialized in building interactive dashboards, analyzing complex datasets, and delivering data-driven solutions using modern analytical tools.
+
+💡 I enjoy solving real-world business problems through storytelling, KPIs, and actionable insights.
+
+---
+
+## 💼 Professional Experience
+
+### 📈 Data Analyst Apprentice  
+**Dream With Data (DwD) TRD Center Pvt. Ltd. | Present - May-2026 | Maharashtra, India**
+
+- 📌 Developed production-level Power BI dashboards across analytics domains.
+- 📌 Designed advanced DAX measures, calculated columns, and KPI reports.
+- 📌 Implemented Row-Level Security (RLS) and optimized dashboard performance.
+- 📌 Managed Power BI Service, workspace access, gateway configuration, and scheduled refreshes.
+- 📌 Worked with business teams to convert requirements into meaningful analytical solutions.
+
+---
+
+## 🧠 Technical Expertise
+
+### 📊 Business Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-0176D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power Query-742774?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data Modeling-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI Reporting-0A66C2?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Durwang2002/Durwang2002/blob/main/LinkedIn.jpg?raw=true" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-185FA5?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Pandas%20%7C%20Scikit--learn%20%7C%20TensorFlow-534AB7?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Full--time-1D9E75?style=flat-square" />
+---
+
+### 🗄️ Data Analytics
+
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data Warehousing-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-FF4088?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data Cleaning-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data Visualization-FF9800?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👋 About me
+### 🐍 Programming & Data Science
 
-Computer Science graduate with hands-on experience delivering **production-grade analytics solutions** across Telecom, E-commerce, and Retail. I turn complex, messy datasets into clear, actionable insights — from designing advanced DAX models and Row Level Security in Power BI to building ML pipelines and deploying AI web apps.
-
----
-
-## 📊 At a Glance
-
-| | |
-|---|---|
-| 🗂️ ** Production Power BI Dashboards** published to app.powerbi.com | 🏭 ** Industry Domains** — Telecom, E-commerce, Retail , etc.|
-| 🤖 ** ML & Data Science Projects** shipped end-to-end | 🎓 **B.Tech CS&E** — G.H. Raisoni University 
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tools & Platforms
 
-**Business Intelligence**
-`Power BI` `DAX (Aggregate, Date, Logical, String, Table)` `Data Modelling` `Row Level Security` `Workspaces` `Gateways` `Premium Capacity` `Custom Visuals` `KPI Design` `Drill-through Filters`
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-**Data & Databases**
-`SQL (Advanced)` `Data Warehousing` `Star/Snowflake Schema` `Azure Analysis Services` `Power Query` `RDBMS`
-
-**Python & Machine Learning**
-`Scikit-learn` `TensorFlow` `SARIMA` `K-Means Clustering` `EDA` `Streamlit` `Pandas` `NumPy`
-
-**Visualization**
-`Power BI` `Matplotlib` `Seaborn` `Plotly` `Streamlit`
-
-**Tools**
-`Microsoft Excel` `Jupyter Notebook` `Git & GitHub` `VS Code`
+**Power BI | SQL | Python | Excel | Power Query | Jupyter Notebook | Git | GitHub**
 
 ---
 
-## 🎓 Education
+## 🌱 Currently Learning
 
-**Bachelor of Technology — Computer Science & Engineering**
-G.H. Raisoni University, Amravati, Maharashtra · *Graduated Jun 2026*
-
----
-
-## 📜 Certifications
-
-- 🏅 **Data Visualization: Empowering Business with Effective Insights** — Forage × Tata Consultancy Services · Jul 2024
-- 🏅 **Complete Python Programming for Beginners** — Udemy · Feb 2024
+🔹 Advanced Data Analytics  
+🔹 Power BI Optimization  
+🔹 Cloud-Based Data Solutions  
+🔹 Data Engineering Concepts  
 
 ---
 
-## 🌐 Languages
-
-English (Fluent) · Hindi (Fluent) · Marathi (Fluent)
-
----
+## 🤝 Let's Connect
 
 <p align="center">
-  <i>Open to Data Analyst, BI Developer, and Data Science roles. Let's build something data-driven together.</i>
+
+<a href="https://www.linkedin.com/in/durwang-deotale">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:durwangdeotale34@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Durwang2002">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+## ⭐ Turning Data Into Insights, Insights Into Decisions ⭐
+
+### Thanks for visiting my profile! 🚀
+
+</div>
