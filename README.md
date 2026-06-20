@@ -6,11 +6,11 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=durwangdeotale&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=durwangdeotale&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
