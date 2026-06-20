@@ -10,8 +10,6 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Durwang2002" />
-
 </div>
 ---
 
