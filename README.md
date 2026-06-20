@@ -27,8 +27,8 @@ Computer Science graduate with hands-on experience delivering **production-grade
 
 | | |
 |---|---|
-| 🗂️ **4+ Production Power BI Dashboards** published to app.powerbi.com | 🏭 **3 Industry Domains** — Telecom, E-commerce, Retail |
-| 🤖 **5+ ML & Data Science Projects** shipped end-to-end | 🎓 **B.Tech CS&E** — G.H. Raisoni University 
+| 🗂️ ** Production Power BI Dashboards** published to app.powerbi.com | 🏭 ** Industry Domains** — Telecom, E-commerce, Retail |
+| 🤖 ** ML & Data Science Projects** shipped end-to-end | 🎓 **B.Tech CS&E** — G.H. Raisoni University 
 
 ---
 
