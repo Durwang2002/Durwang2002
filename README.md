@@ -79,7 +79,7 @@
 ## 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,sql,excel,power query, jupyter notebook, gen ai, power bi, git,github,vscode" />
 </p>
 
 **Power BI | SQL | Python | Excel | Power Query | Jupyter Notebook | Git | GitHub | GenAI**
