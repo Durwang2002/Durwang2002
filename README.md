@@ -2,100 +2,142 @@
 
 # 👋 Hello, I'm Durwang Deotale
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Enthusiast;Python+Data+Analyst;Turning+Data+Into+Business+Insights" />
+### Data Analyst | Power BI Developer | SQL Enthusiast | Python Developer
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Durwang2002&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+Developer;Python+Programmer;Transforming+Data+Into+Business+Insights" />
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=Durwang2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 </div>
----
-
-## 🚀 About Me
-
-🎯 Passionate Data Analyst and Computer Science Engineer with practical experience in Business Intelligence, Data Visualization, and transforming raw data into meaningful insights.
-
-📊 Specialized in building interactive dashboards, analyzing complex datasets, and delivering data-driven solutions using modern analytical tools.
-
-💡 I enjoy solving real-world business problems through storytelling, KPIs, and actionable insights.
 
 ---
 
-## 💼 Professional Experience
+# 🚀 About Me
 
-### 📈 Data Analyst Apprentice  
-**Dream With Data (DwD) TRD Center Pvt. Ltd. | Present - May-2026 | Maharashtra, India**
+🎯 Passionate **Data Analyst** and Computer Science Engineer with practical experience in **Business Intelligence, Data Visualization, and Data Analytics**.
 
-- 📌 Developed production-level Power BI dashboards across analytics domains.
-- 📌 Designed advanced DAX measures, calculated columns, and KPI reports.
-- 📌 Implemented Row-Level Security (RLS) and optimized dashboard performance.
-- 📌 Managed Power BI Service, workspace access, gateway configuration, and scheduled refreshes.
-- 📌 Worked with business teams to convert requirements into meaningful analytical solutions.
+📊 Specialized in developing interactive dashboards, analyzing complex datasets, and converting raw data into actionable business insights.
+
+💡 Strong interest in solving real-world problems using **Power BI, SQL, Python, and Machine Learning**.
 
 ---
 
-## 🧠 Technical Expertise
+# 💼 Professional Experience
 
-### 📊 Business Intelligence
+## 📈 Data Analyst Apprentice  
+### Dream With Data (DwD) TRD Center Pvt. Ltd.  
+**May - 2026 – Present | Wardha Maharashtra, India**
 
-<p>
-<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+- 📌 Built production-level Power BI dashboards for multiple business domains.
+- 📌 Created advanced DAX calculations, KPIs, and optimized analytical reports.
+- 📌 Implemented Row-Level Security (RLS) and improved dashboard performance.
+- 📌 Managed Power BI Service, workspaces, data gateways, and scheduled refreshes.
+- 📌 Collaborated with teams to translate business requirements into meaningful data solutions.
+
+  ## 📈 Data Analyst Internship 
+### Dream With Data (DwD) TRD Center Pvt. Ltd.  
+**Dec - 2025 to May - 2026 | Wardha Maharashtra, India**
+- 📌  Transformed raw, unstructured datasets into clean, analysis-ready formats using Python and SQL. 
+- 📌  Designed and deployed multiple Power BI dashboards supporting data-driven decision making for business stakeholders. 
+- 📌  Conducted exploratory data analysis (EDA) to identify trends, anomalies, and business opportunities. 
+- 📌  Delivered insights that directly supported marketing strategies and operational improvements. 
+  
+---
+
+# 🧠 Technical Expertise
+
+## 📊 Business Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/DAX-0176D3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power Query-742774?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data Modeling-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI Reporting-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Modeling-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI_Reporting-0A66C2?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 🗄️ Data Analytics
+## 🗄 Data Analytics & Database
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data Warehousing-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Warehousing-005571?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/EDA-FF4088?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data Cleaning-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data Visualization-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 🐍 Programming & Data Science
+## 🐍 Programming & Data Science
 
-<p>
+<p align="center">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-013243?style=for-the-badge&logo=seaborn"/>
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🛠️ Tools & Platforms
+# 🛠 Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,sql,excel,powerquery,jupyternotebook,genai,powerbi,git,github,vscode" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
 </p>
 
-**Power BI | SQL | Python | Excel | Power Query | Jupyter Notebook | Git | GitHub | GenAI**
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 🔹 Advanced Data Analytics  
 🔹 Power BI Optimization  
-🔹 Cloud-Based Data Solutions  
+🔹 Cloud Data Solutions  
 🔹 Data Engineering Concepts  
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -103,9 +145,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
+&nbsp;
+
 <a href="mailto:durwangdeotale34@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/Durwang2002">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
@@ -119,6 +165,6 @@
 
 ## ⭐ Turning Data Into Insights, Insights Into Decisions ⭐
 
-### Thanks for visiting my profile! 🚀
+### 🚀 Thanks for visiting my profile!
 
 </div>
