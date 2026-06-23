@@ -28,7 +28,7 @@
 
 ## 📈 Data Analyst Apprentice  
 ### Dream With Data (DwD) TRD Center Pvt. Ltd.  
-**May 2026 – Present | Wardha, Maharashtra, India**
+**June 2026 – Present | Wardha, Maharashtra, India**
 
 - 📌 Developed production-level Power BI dashboards across multiple business domains.
 - 📌 Created advanced DAX measures, KPIs, and optimized analytical reports for improved performance.
@@ -39,7 +39,7 @@
 
 ## 📈 Data Analyst Internship  
 ### Dream With Data (DwD) TRD Center Pvt. Ltd.  
-**December 2025 – May 2026 | Wardha, Maharashtra, India**
+**December 2025 – June 2026 | Wardha, Maharashtra, India**
 
 - 📌 Transformed raw and unstructured datasets into clean, analysis-ready data using Python and SQL.
 - 📌 Designed and developed interactive Power BI dashboards to support business decisions.
