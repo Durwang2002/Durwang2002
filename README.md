@@ -26,7 +26,7 @@
 
 # 💼 Professional Experience
 
-## 📈 Data Analyst Apprentice  
+## 📈 Data Analyst Freelance
 ### Dream With Data (DwD) TRD Center Pvt. Ltd.  
 **June 2026 – Present | Wardha, Maharashtra, India**
 
